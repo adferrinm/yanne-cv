@@ -1,12 +1,12 @@
-# Astrofy | Personal Porfolio Website Template
+# Currículum vitae | Yanneris Fernandéz Rodríguez
 
-![Astrofy | Personal Porfolio Website Template](public/social_img.png)
+![Currículum vitae | Yanneris Fernandéz Rodríguez]
 
-Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+Comunicadora apasionada con experiencia en gestión de comunidades y redes sociales. Experta en crear y ejecutar estrategias de contenido para aumentar la visibilidad de la marca y el compromiso de la audiencia.
 
-## Demo
+<!-- ## Demo
 
-View a live demo of [Astrofy](https://astrofy-template.netlify.app/)
+View a live demo of [Astrofy](https://astrofy-template.netlify.app/) -->
 
 ## Installation
 
@@ -28,7 +28,7 @@ npm run dev
 - [tailwindcss](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
 
-## Project Structure
+<!-- ## Project Structure
 
 ```php
 ├── src/
@@ -73,15 +73,15 @@ npm run dev
 ├── tailwind.config.cjs
 ├── package.json
 └── tsconfig.json
-```
+``` -->
 
-### Components usage
+<!-- ### Components usage -->
 
-#### Layout Components
+<!-- #### Layout Components
 
-The `BaseHead`, `Footer`, `Header` and `SideBar` components are already included in the layout system. To change the website content you can edit the content of this components.
+The `BaseHead`, `Footer`, `Header` and `SideBar` components are already included in the layout system. To change the website content you can edit the content of this components. -->
 
-##### SideBar
+<!-- ##### SideBar
 
 In the Sidebar you can change your profilePicture, links to all your website pages and your social icons.
 
@@ -110,8 +110,9 @@ The timeline components are used to conform the CV.
     and <span>anything else you want</span>.
   </TimeLineElement>
   ...
-</div>
-```
+</div> -->
+
+````
 
 #### Card & HorizontalCard
 
@@ -119,7 +120,7 @@ The timeline components are used to conform the CV.
 <HorizontalCard title="Card Title" img="imge_url" desc="Description" url="Link
 URL" target="Optional link target (_blank default)" badge="Optional badge"
 tags={['Array','of','tags']} />
-```
+````
 
 #### HorizontalCard Shop Item
 
