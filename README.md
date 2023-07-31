@@ -1,6 +1,6 @@
 # Currículum vitae | Yanneris Fernandéz Rodríguez
 
-![Currículum vitae | Yanneris Fernandéz Rodríguez]
+<!-- ![Astrofy | Personal Porfolio Website Template](public/social_img.png) -->
 
 Comunicadora apasionada con experiencia en gestión de comunidades y redes sociales. Experta en crear y ejecutar estrategias de contenido para aumentar la visibilidad de la marca y el compromiso de la audiencia.
 
@@ -112,7 +112,7 @@ The timeline components are used to conform the CV.
   ...
 </div> -->
 
-````
+<!-- ````
 
 #### Card & HorizontalCard
 
@@ -256,4 +256,4 @@ Astrofy is licensed under the MIT license — see the [LICENSE](https://github.c
   <img src="https://contrib.rocks/image?repo=manuelernestog/astrofy" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks). -->
